@@ -1,6 +1,6 @@
 # quizzler
 
-A new Flutter project.
+A simple quiz game built usinf flutter .
 
 ## Getting Started
 
